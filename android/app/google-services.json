@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "767944163247",
+    "firebase_url": "https://bildirisa-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bildirisa",
+    "storage_bucket": "bildirisa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767944163247:android:bbfe77b067d1ac7660795a",
+        "android_client_info": {
+          "package_name": "com.bildirisa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767944163247-l6ccv6cltrmktitrjle3dr22hlij53lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmTX6k27ia7pbkPpz_GUNyj4-XF3Zdibw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767944163247-l6ccv6cltrmktitrjle3dr22hlij53lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
