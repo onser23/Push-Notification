@@ -1,10 +1,4 @@
-import {StyleSheet, Text, View, Alert, Button} from 'react-native';
-// import messaging from '@react-native-firebase/messaging';
 import PushNotification, {Importance} from 'react-native-push-notification';
-// import React, {useEffect} from 'react';
-// import NotificationController from './NotificationController';
-
-// import PushNotificationIOS from '@react-native-community/push-notification-ios';
 
 PushNotification.createChannel(
   {
@@ -79,9 +73,3 @@ PushNotification.configure({
    */
   requestPermissions: true,
 });
-
-// PushNotification.getChannels(function (channel_ids) {
-//   console.log(channel_ids); // ['channel_id_1']
-// });
-
-const styles = StyleSheet.create({});
